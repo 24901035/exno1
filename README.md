@@ -20,22 +20,24 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-![Screenshot 2024-10-22 102110](https://github.com/user-attachments/assets/a2efa306-e308-4bd2-a84a-93440d8d83f5)
-![Screenshot 2024-10-22 102254](https://github.com/user-attachments/assets/a4998089-21fd-4a04-8680-864f0752591d)
- ![Screenshot 2024-10-22 102317](https://github.com/user-attachments/assets/ea759b58-3859-4aad-bf80-eb3e7d3d65bc)
-![Screenshot 2024-10-22 102345](https://github.com/user-attachments/assets/5d0e6fc3-cbf5-46c7-8474-310a60927619)
-![Screenshot 2024-10-22 102405](https://github.com/user-attachments/assets/b120f7da-5b39-41c0-9199-ae2cfa4d1868)
-![Screenshot 2024-10-22 102459](https://github.com/user-attachments/assets/966222ff-3a70-4f21-99b3-c306012936f2)
-![Screenshot 2024-10-22 102537](https://github.com/user-attachments/assets/58bc3f6c-dbe1-47a7-a6ea-8e8436102dea)
-![Screenshot 2024-10-22 102703](https://github.com/user-attachments/assets/fecdd126-5268-4956-938b-19cbc2894c87)
-![Screenshot 2024-10-22 104105](https://github.com/user-attachments/assets/b67a6880-2061-4476-9b70-0aa2b22b3002)
-![Screenshot 2024-10-22 104135](https://github.com/user-attachments/assets/4e9de604-3d79-4df3-98b7-96c3c73fe82e)
-![Screenshot 2024-10-22 104353](https://github.com/user-attachments/assets/7f132da9-e14c-4155-a22d-bfea299eafa7)
-![Screenshot 2024-10-22 104532](https://github.com/user-attachments/assets/5905ae24-1fcf-4ae4-b01e-91b7dcb9d612)
-![Screenshot 2024-10-22 104715](https://github.com/user-attachments/assets/b83ba501-be29-434c-bdb6-a0b39a33ac27)
-![Screenshot 2024-10-22 104805](https://github.com/user-attachments/assets/450f9589-b002-4496-8427-ce31d2eb750c)
-![screenshot 2024-10-22 104834](https://github.com/user-attachments/assets/49d087cd-e879-492d-84bb-b544455a5805)
+![Screenshot 2024-10-24 172914](https://github.com/user-attachments/assets/3a726207-c3e7-4696-bc16-fd628bc6698f)
+![Screenshot 2024-10-24 173022](https://github.com/user-attachments/assets/a9384411-4f53-4ff5-ab57-7584e4aa1576)
+![Screenshot 2024-10-24 173052](https://github.com/user-attachments/assets/467e9b85-24d9-4a2c-a4e0-398c52004343)
+![Screenshot 2024-10-24 173123](https://github.com/user-attachments/assets/f83ffdad-37cf-4d33-a8fb-7de1bbf7bd35)
+![Screenshot 2024-10-24 173149](https://github.com/user-attachments/assets/3bd5d36d-2028-47cd-ba18-cef475a90e48)
+![Screenshot 2024-10-24 173215](https://github.com/user-attachments/assets/d96350ce-14cb-4e6b-8ea4-29558efbbd30)
+![Screenshot 2024-10-24 173215](https://github.com/user-attachments/assets/4f4e8879-e763-4e15-b95f-29cd4a2927ad)
+![Screenshot 2024-10-24 173324](https://github.com/user-attachments/assets/36a49226-3f4f-4258-a0aa-6a69c53b8c5c)
+![Screenshot 2024-10-24 173401](https://github.com/user-attachments/assets/d3d3abb3-2002-44a0-808a-87709a96d45b)
+![Screenshot 2024-10-24 173504](https://github.com/user-attachments/assets/dfea2ac9-7592-403b-8852-506858c02eef)
+![Screenshot 2024-10-24 173545](https://github.com/user-attachments/assets/89d828c2-fe93-4e6c-a3ad-32e5d7866c97)
+![Screenshot 2024-10-24 173614](https://github.com/user-attachments/assets/67f3dbd3-040d-424e-b929-0f971f034ac2)
+![Screenshot 2024-10-24 173651](https://github.com/user-attachments/assets/d5674101-61f2-4889-bbee-bcf4ec5c68f1)
+![Screenshot 2024-10-24 173805](https://github.com/user-attachments/assets/1c728170-e0fa-4998-a6bf-593953f3e9bd)
+![Screenshot 2024-10-24 173849](https://github.com/user-attachments/assets/08eb97c3-86d0-4e46-8c78-837189f61629)
+![Screenshot 2024-10-24 173927](https://github.com/user-attachments/assets/4bf29eb3-6957-4266-81ed-a64c2b16a96a)
+![Screenshot 2024-10-24 174029](https://github.com/user-attachments/assets/157189ca-30ff-408f-9e32-382b7c1760f6)
+![Screenshot 2024-10-24 174102](https://github.com/user-attachments/assets/71b9747a-009a-4ed6-9528-ecfbea43f9cd)
 
-         
 # Result
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method
